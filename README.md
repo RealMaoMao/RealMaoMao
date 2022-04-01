@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" src="https://github.com/RealMaoMao/RealMaoMao/blob/main/assets/avatar.png">
+<img align="right" width="350" height="350" src="assets/avatar.png">
 
 # Hi, I'm RealMaoMao
 
