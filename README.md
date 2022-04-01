@@ -1,12 +1,8 @@
 <img align="right" width="350" height="350" src="assets/avatar.png">
 
-# Hi, I'm CubingSoda
+# Hi, I'm RealMaoMao
 
-Website: https://cubingsoda.pages.dev
-
-👨🏻‍💻 Front-End Web Developer Using React.js/Next.js
-
-💻 Python API/GUI
+I just code for fun, dont have any main languages
 
 ### Languages, Libraries and Frameworks
 
