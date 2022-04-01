@@ -97,6 +97,6 @@ I just code for fun, dont have any main languages
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubingsoda&layout=compact&theme=radical&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealMaoMao&layout=compact&theme=radical&hide_border=true"
   alt="Most Used Languages"
 />
