@@ -91,8 +91,8 @@ I just code for fun, dont have any main languages
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api?username=cubingsoda&hide=issues&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&hide_border=true"
-  alt="CubingSoda's GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=RealMaoMao&hide=issues&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&hide_border=true"
+  alt="RealMaoMao's GitHub Stats"
 />
 
 <img
