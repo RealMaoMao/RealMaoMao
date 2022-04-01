@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" src="assets/avatar.png">
+<img align="right" width="350" height="350" src="assets/avatar-2.png">
 
 # Hi, I'm RealMaoMao
 
